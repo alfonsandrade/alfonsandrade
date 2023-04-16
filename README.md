@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on an internship in test automation at ATOS.<br>👯 I’m looking to collaborate on innovative projects that help improve software quality.<br>🤝 I’m looking for help with expanding my skill set and learning from experienced professionals.<br>🌱 I’m currently learning Java, DevOps, and AI to enhance my capabilities.<br>💬 Ask me about anything! I'll do my best to help within my reach.<br>⚡ Fun fact: Test engineers are like software superheroes - they develop with the mission to break the application just to make it stronger!
+# 😄 About Me:
+🔭 I’m currently working on an internship in test automation at ATOS.<br>	🍻 I’m looking to collaborate on innovative projects that help improve software quality.<br>🤝 I’m looking for help with expanding my skill set and learning from experienced professionals.<br>🌱 I’m currently learning Java, DevOps, and AI to enhance my capabilities.<br>💬 Ask me about anything! I'll do my best to help within my reach.<br>😂 Fun fact: Test engineers are like software superheroes - they develop with the mission to break the application just to make it stronger!
 
 
 ## 🌐 Socials:
