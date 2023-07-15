@@ -1,5 +1,5 @@
 # 😄 About Me:
-🔭 I’m currently working on an internship in test automation at ATOS.<br>	🍻 I’m looking to collaborate on innovative projects that help improve software quality.<br>🤝 I’m looking for help with expanding my skill set and learning from experienced professionals.<br>🌱 I’m currently learning Java, DevOps, and AI to enhance my capabilities.<br>💬 Ask me about anything! I'll do my best to help within my reach.<br>
+🔭 I’m currently working on test automation team at ATOS.<br>	🍻 I’m looking to collaborate on innovative projects that help improve software quality.<br>🤝 I’m looking for help with expanding my skill set and learning from experienced professionals.<br>🌱 I’m currently learning Java, DevOps, and AI to enhance my capabilities.<br>💬 Ask me about anything! I'll do my best to help within my reach.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alfonsandrade) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/alfons-andrade-921916233/) 
